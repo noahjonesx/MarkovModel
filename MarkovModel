@@ -12,7 +12,7 @@ import java.util.Set;
  * the model. A kgram is a sequence of k consecutive characters in the source
  * text.
  *
- * @author     Your Name (you@auburn.edu)
+ * @author     Noah Jones (nhj0004@auburn.edu)
  * @author     Dean Hendrix (dh@auburn.edu)
  *
  */
